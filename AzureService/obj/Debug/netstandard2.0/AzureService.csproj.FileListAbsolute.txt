@@ -1,0 +1,9 @@
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.csprojAssemblyReference.cache
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.csproj.CoreCompileInputs.cache
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.AssemblyInfoInputs.cache
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.AssemblyInfo.cs
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\bin\Debug\netstandard2.0\AzureService.deps.json
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\bin\Debug\netstandard2.0\AzureService.dll
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\bin\Debug\netstandard2.0\AzureService.pdb
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.dll
+D:\Blog\Azure-service-bus-microservices\Program\AzureService\obj\Debug\netstandard2.0\AzureService.pdb

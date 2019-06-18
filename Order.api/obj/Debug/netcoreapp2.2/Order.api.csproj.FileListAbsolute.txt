@@ -1,0 +1,17 @@
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\Order.api.deps.json
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\Order.api.runtimeconfig.json
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\Order.api.runtimeconfig.dev.json
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\Order.api.dll
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\Order.api.pdb
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\azureservice.dll
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\bin\Debug\netcoreapp2.2\azureservice.pdb
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.csprojAssemblyReference.cache
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.csproj.CoreCompileInputs.cache
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.RazorAssemblyInfo.cache
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.RazorAssemblyInfo.cs
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.AssemblyInfoInputs.cache
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.AssemblyInfo.cs
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.RazorTargetAssemblyInfo.cache
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.csproj.CopyComplete
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.dll
+D:\Blog\Azure-service-bus-microservices\Program\Order.api\obj\Debug\netcoreapp2.2\Order.api.pdb
